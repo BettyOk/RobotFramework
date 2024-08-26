@@ -1,0 +1,38 @@
+1724200239973	geckodriver	INFO	Listening on 127.0.0.1:60895
+1724200243085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHnJhBF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724200243415	Marionette	INFO	Marionette enabled
+1724200243569	Marionette	INFO	Listening on port 60906
+WebDriver BiDi listening on ws://127.0.0.1:60896
+Read port: 60906
+1724200243709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60896/devtools/browser/34c0cb49-7ad3-4d9e-9a28-c570de2bed0f
+1724200274747	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js, line 2: Script terminated by timeout at:
+value@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:102192
+value@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:125561
+value@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:121950
+r/936/n/7429/value/<@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:56675
+
+1724200276245	Marionette	INFO	Stopped listening on port 60906
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown

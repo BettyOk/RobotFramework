@@ -1,0 +1,18 @@
+1724043045032	geckodriver	INFO	Listening on 127.0.0.1:64504
+1724043048117	mozrunner::runner	INFO	Running command: "C:\\Users\\User\\.cache\\selenium\\firefox\\win64\\129.0.1\\firefox.exe" "--marionette" "--remote-debugging ... 05" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileekGfl3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724043048470	Marionette	INFO	Marionette enabled
+1724043048630	Marionette	INFO	Listening on port 64513
+WebDriver BiDi listening on ws://127.0.0.1:64505
+Read port: 64513
+1724043048790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64505/devtools/browser/9e0a4fdc-cb76-434d-b2db-d44741fe7d5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=Ab5oB3ppt2nMN3e9S9mX_MysbOpY8-gNM0Q8XwBagdPkPBglA2SnZFfQE2i82PVkGtv9gCxm958ENA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S101140520%3A1724043051598643&ddm=0 line 841 > injectedScript line 2 > eval line 6450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1724043078988	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://pdf.js/PdfStreamConverter.sys.mjs, line 949: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1724043161374	Marionette	INFO	Stopped listening on port 64513
+Dynamically enable window occlusion 1

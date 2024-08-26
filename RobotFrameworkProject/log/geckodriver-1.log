@@ -1,0 +1,22 @@
+1724042640439	geckodriver	INFO	Listening on 127.0.0.1:64368
+1724042643527	mozrunner::runner	INFO	Running command: "C:\\Users\\User\\.cache\\selenium\\firefox\\win64\\129.0.1\\firefox.exe" "--marionette" "--remote-debugging ... 69" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCupSkl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724042643885	Marionette	INFO	Marionette enabled
+1724042644049	Marionette	INFO	Listening on port 64379
+WebDriver BiDi listening on ws://127.0.0.1:64369
+Read port: 64379
+1724042644209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64369/devtools/browser/326cbd98-9f7b-4de5-b9e8-f4a17857d6c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=Ab5oB3p6-CGluqV-06guuMd4_81Y1GYAMKuXMTfK8JrM2KGpAHRPiZEqDsHyBFaR5tkXyKFeeatZlA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1291388941%3A1724042646664412&ddm=0 line 841 > injectedScript line 2 > eval line 3244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1724042675803	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+JavaScript warning: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.DtzUaWg4JxA.es5.O/am=gKxgGAzTAALxcA70gKJAyAAAAAAAAAIAgA0AAGIG/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFK0vcleVQzt5kGejVSJT-ub_UCAw/m=_b,_tp, line 334: Script terminated by timeout at:
+c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.DtzUaWg4JxA.es5.O/am=gKxgGAzTAALxcA70gKJAyAAAAAAAAAIAgA0AAGIG/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFK0vcleVQzt5kGejVSJT-ub_UCAw/m=_b,_tp:334:188
+b@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.DtzUaWg4JxA.es5.O/am=gKxgGAzTAALxcA70gKJAyAAAAAAAAAIAgA0AAGIG/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFK0vcleVQzt5kGejVSJT-ub_UCAw/m=_b,_tp:325:49
+
+1724043013904	Marionette	INFO	Stopped listening on port 64379
+Dynamically enable window occlusion 1
